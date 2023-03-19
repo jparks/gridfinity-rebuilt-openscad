@@ -29,13 +29,13 @@ $fs = 0.25;
 
 /* [General Settings] */
 // number of bases along x-axis
-gridx = 5;  
+gridx = 1;  
 // number of bases along y-axis   
-gridy = 5;  
+gridy = 1;  
 // bin height. See bin height information and "gridz_define" below.  
-gridz = 6;   
+gridz = 1;   
 // base unit
-length = 42;
+length = 60;
 
 /* [Compartments] */
 // number of X Divisions (set to zero to have solid bin)
